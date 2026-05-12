@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-groq
+langchain-community
+tavily-python
+python-dotenv
+beautifulsoup4
+requests
+pypdf2
+tavily-python
+streamlit
