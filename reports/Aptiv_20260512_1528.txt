@@ -1,0 +1,35 @@
+# Job Research Report
+**Company:** Aptiv
+**Job URL:** https://www.linkedin.com/jobs/view/4394939441/?alternateChannel=search&eBP=CwEAAAGeHF_YSZKYM1-Ot0vlgRC7jreGuTXcXFUsN2jkUcHvDARJsTVhTR6IXTOaMWQfU77d2UKafmQsriBdtNw0JwlqdcNI5Ivim7agdRdQZHK3HR3ZRQAMacBRF3imk2lpVX2ZPf3CsdRGHtcVSnxAU3n-NGxeeVDPEbM1CplQc78tDE3VMHADX_HnrBvWQi5dR5QcbvTrTjmiEdMjnpTiFl6hOX1h557yj1owl8H_xgeKVKIVd_PixVMPbSXcAkQ_mijwu8QjuMdKaSmuLc6t0lqzOR1aUZy5r5Nv8ViMuw-NlJ6-9OIccxx-l5LoSEPks9GIRB-uJUfxRrmeKLNXP2pyPRI766RqAULpxB2CQhAD0XpQz4PeXnlRzvd0RgnrC_CGV1uVx9TxCBFEeLYQ3Zc7KRAYNTOMos-635SV0tcJpgDGeYUJn6DgiZi0Ij0&refId=OWqvDEgNDHVvKEDN4GqH9g%3D%3D&trackingId=GyuOGk4HL2vTlcdcb7xPTA%3D%3D
+**Generated:** 2026-05-12 15:28
+
+---
+
+**Report:**
+
+### 1. Match Score (out of 10)
+I would rate the match between the CV and the job posting as an 8 out of 10. The candidate has a strong background in AI/ML, with experience in computer vision, deep learning, and edge AI, which aligns well with the job requirements. However, the job posting does not provide detailed information about the specific skills and qualifications required, so it's difficult to make a perfect match.
+
+### 2. What to Highlight in your application
+To increase the chances of getting hired, the candidate should highlight the following in their application:
+* Experience in developing and deploying AI/ML models, particularly in computer vision and deep learning
+* Strong programming skills in Python, TensorFlow, and PyTorch
+* Experience with cloud environments, such as Azure, and edge devices
+* Ability to work on real-time systems and deploy models in production environments
+* Strong understanding of data preprocessing, validation, and evaluation workflows
+
+### 3. Skill Gaps to address
+Although the candidate has a strong background in AI/ML, there are a few skill gaps to address:
+* The job posting mentions "shaping next-gen technologies" and "software-defined future", which may require experience in areas like autonomous vehicles, IoT, or smart cities. The candidate may need to highlight any relevant experience or skills in these areas.
+* The company emphasizes "continuous learning" and "collaborative learning", so the candidate may need to demonstrate a willingness to learn and adapt to new technologies and workflows.
+
+### 4. Suggested Cover Letter angle
+In the cover letter, the candidate could take the following angle:
+* Emphasize their passion for developing and deploying AI/ML models that can make a real-world impact
+* Highlight their experience in working on complex projects and collaborating with cross-functional teams
+* Show enthusiasm for the company's mission and values, particularly in shaping the software-defined future
+* Demonstrate a willingness to learn and adapt to new technologies and workflows, and highlight any relevant experience or skills in areas like autonomous vehicles, IoT, or smart cities
+
+### 5. One interesting fact about the company to mention in interview
+One interesting fact about the company that the candidate could mention in an interview is:
+* Aptiv is a global company that is shaping the software-defined future, with a focus on developing groundbreaking technology that is safer, greener, and more connected. The candidate could mention their excitement about being part of a company that is pushing the boundaries of innovation and making a positive impact on society. For example, they could say: "I'm impressed by Aptiv's commitment to developing technology that is not only innovative but also sustainable and socially responsible. I'm excited about the opportunity to contribute to a company that is shaping the future of transportation and making a positive impact on the environment."

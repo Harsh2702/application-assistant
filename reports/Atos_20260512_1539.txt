@@ -1,0 +1,37 @@
+# Job Research Report
+**Company:** Atos
+**Job URL:** https://www.linkedin.com/jobs/view/4402483491/?alternateChannel=search&eBP=CwEAAAGeHGAIluq5PvCaXjGy9QAk9P_gvyMdzbyNGZMxkCOWmU1goL0bAt21xEHPVMaTOJq4upG9L3ooa2Xm7aZG_9laR-c6wtPYRkstyZTbA30vi-VlUXapagIkV3NdNkQY6sXvaPND7-hiqxMlq1U7QANya7PJgR2FzJp7alTNMS6xcA8W0Cdhy0asyP7zORVlS0aGbRFemXVI0i2_C0mDKcZn-NO2ZpDX8YwFGg8N8D67dK8oxVvgMoK1lpIlxjEVF4OggDu-p41jcD7p7BzpEFyRrlI_3YV1lG5xXEZ8DojhP-PF7HoQZxBwgTYGYXciHmAT7vulZP-wQ2P17MnKMa4zGu1It1-nfw9_INxA6OEQ56EODHy6boyOng3JPnXvIZk3hSHtHPvi-nmoLDnxDJ6pna2h5kWkiPksMhaSFT1XrTLKDpm8QQiW21LD8K3pt1qeTg-EVOwSVxcSbSIdDke5bDkD8r_y7WJNdabjMRmyTf8&refId=nsPtbKfvMEqd1Oh88PxRBQ%3D%3D&trackingId=3ZQP5KBVcK3IZzWL2iHEdw%3D%3D
+**Generated:** 2026-05-12 15:39
+
+---
+
+**Report:**
+
+**1. Match Score (out of 10):** 8
+
+The candidate's CV shows a strong background in machine learning, artificial intelligence, and data science, which aligns with the job posting for an AI Engineer at Atos. The candidate's experience in developing and deploying deep learning models, computer vision, and natural language processing (NLP) is particularly relevant to the role. However, the job posting does not provide detailed information about the specific requirements, which makes it difficult to assess the match score with complete accuracy.
+
+**2. What to Highlight in your application:**
+
+* Emphasize experience in machine learning, deep learning, and computer vision, as these skills are likely to be crucial for the AI Engineer role.
+* Highlight the ability to develop and deploy models on cloud environments, such as Azure, and edge devices.
+* Showcase the ability to work with various technologies, including Python, TensorFlow, PyTorch, and Hugging Face.
+* Mention experience in improving model performance, productionizing pipelines, and delivering measurable business impact.
+
+**3. Skill Gaps to address:**
+
+* The job posting does not explicitly mention specific skill gaps, but the candidate may want to consider acquiring skills in areas such as:
+	+ Quantum technologies, as mentioned in the company description.
+	+ High-performance computing, which may be relevant to the role.
+	+ Knowledge of Atos's specific technologies and platforms, such as Bull, which is mentioned in the company description.
+
+**4. Suggested Cover Letter angle:**
+
+* Start by expressing enthusiasm for the AI Engineer role and Atos's commitment to innovation and digital solutions.
+* Highlight the candidate's relevant experience and skills, and explain how they can contribute to the company's goals.
+* Emphasize the ability to work collaboratively in a team environment, as mentioned in the company culture description.
+* Show interest in the company's focus on high-performance computing, AI, and quantum technologies, and express a desire to learn and grow with the company.
+
+**5. One interesting fact about the company to mention in interview:**
+
+* Atos has a strong commitment to innovation and digital solutions, with a focus on high-performance computing, AI, and quantum technologies. For example, the company has developed the Bull sequana supercomputer, which is one of the most powerful supercomputers in the world. Mentioning this fact shows that the candidate has done research on the company and is interested in its work and mission.
