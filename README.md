@@ -1,4 +1,4 @@
-# application-assistant
+# Job-Application-assistant
 
 An AI agent that researches any job posting and matches it against your CV.
 
