@@ -27,7 +27,7 @@ Tavily API: https://tavily.com
 ```bash
     pip install -r requirements.txt
 ```
-3. add your keys in the `.env` file
+3. Add your keys in the `.env` file
 
 GROQ_API_KEY=your_key
 TAVILY_API_KEY=your_key
