@@ -18,6 +18,9 @@ An AI agent that researches any job posting and matches it against your CV.
 - Streamlit for the UI
 
 ## Setup
+0. Sign up to get your both apis first
+Groq API: https://console.groq.com
+Tavily API: https://tavily.com
 
 1. Clone the repo
 2. Create a virtual env and install dependencies
