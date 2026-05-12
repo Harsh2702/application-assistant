@@ -1,4 +1,4 @@
-# Job-Application-assistant
+# Job-Application-Assistant
 
 An AI agent that researches any job posting and matches it against your CV.
 
@@ -40,7 +40,7 @@ TAVILY_API_KEY=your_key
 ```
 
 ## Project Structure
-    job-agent/
+    job-application-assistant/
       app/
         config.py
         tools.py
